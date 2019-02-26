@@ -1,0 +1,20 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "2406 Assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterMacDonaldSpatula/git-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterMacDonaldSpatula/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/PeterMacDonaldSpatula/git-tutorial#readme"
+}
